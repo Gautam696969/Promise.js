@@ -31,7 +31,7 @@ let promiseOne = new Promise(function(resolve , reject){
         if(!error){
             resolve({userName :"palgautam69", Name : "Pal Gautam", Age : "22"});
         } else {
-            reject("Error: Something went wrong");
+            reject("Error: Something went wgit initrong");
         }
     }, 1000);
 });
